@@ -1,6 +1,19 @@
 # Telergam-Channel-Report-Sender
 Send bulk report spam/copyright/pornography/... to your destination Telegram channel to take it down by Telegram supports
 
+Commands to use the bot:
+ accs ==> Show your logged in accounts to the bot
+ add ==> Add account to the bot
+ del ==> Delete account from bot
+ Report commands ==> ReportSpam 
+                     ReportChild 
+                     ReportCopyright 
+                     ReportFake 
+                     ReportGeoIrrelevant 
+                     ReportOther 
+                     ReportPornography 
+                     ReportViolence
+
 Contact with me to get the Password of Zip file on :
 
  Telegram : https://t.me/erfan4lx1
