@@ -1,4 +1,4 @@
-# Telergam-Channel-Report-Sender
+# Telegram-Channel-Report-Sender
 Send bulk report spam/copyright/pornography/scam/... to your destination Telegram channel to get scam tag by Telegram or take it down by Telegram supports
 Contact with me to get the Password of Zip file on :
 
